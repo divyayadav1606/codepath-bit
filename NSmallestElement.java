@@ -1,5 +1,5 @@
 /**
- * Checkpoint 5
+ * Checkpoint 3
  * Find the kth smallest element in an unsorted array of non-negative integers.
  */
 public class Solution {
