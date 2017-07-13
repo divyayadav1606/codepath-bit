@@ -7,6 +7,8 @@
 
 * [Palindrome String](https://github.com/divyayadav1606/codepath-bit/blob/master/strings/PalindromeString.java) 
 * [Reverse the String](https://github.com/divyayadav1606/codepath-bit/blob/master/strings/ReverseTheString.java) 
+* [Roman To Integer](https://github.com/divyayadav1606/codepath-bit/blob/master/strings/RomanToInteger.java)
+* [Length of Last Word](https://github.com/divyayadav1606/codepath-bit/blob/master/strings/LengthLastWord.java)
 
 ##Profile GIF
 <img src="https://github.com/divyayadav1606/codepath-bit/blob/master/interviewBit-week1.gif"  width="100%" align="center"/>
