@@ -4,8 +4,12 @@
 * Pre Work - Done
 * After Session Assignment - Done
 
-## Week 1 - Big O, Hashtables, Linked Lists
+## Week 2 - Big O, Hashtables, Linked Lists
 * Pre Work - Done
+* After Session Assignment - Done
+
+## Week 3 - Trees, Binary Trees, Searches, Heaps
+* Pre Work - In Progress
 * After Session Assignment - TODO
 
 ##Profile GIF
