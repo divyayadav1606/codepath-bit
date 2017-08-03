@@ -9,6 +9,10 @@
 * After Session Assignment - Done
 
 ## Week 3 - Trees, Binary Trees, Searches, Heaps
+* Pre Work - Done
+* After Session Assignment - Done
+
+## Week 4 - Recursion and Bit Manipulation
 * Pre Work - In Progress
 * After Session Assignment - TODO
 
