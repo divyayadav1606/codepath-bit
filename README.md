@@ -13,8 +13,8 @@
 * After Session Assignment - Done
 
 ## Week 4 - Recursion and Bit Manipulation
-* Pre Work - In Progress
-* After Session Assignment - TODO
+* Pre Work - Done
+* After Session Assignment - In progress
 
 ##Profile GIF
 <img src="https://github.com/divyayadav1606/codepath-bit/blob/master/interviewBit.gif"  width="100%" align="center"/>
